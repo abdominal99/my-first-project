@@ -1,4 +1,7 @@
+let count = 0;
 const button = document.querySelector('button');
+
 button.addEventListener('click', () => {
-    alert('Button clicked!');
+    count++;
+    alert('Button clicked ' + count + ' times!');
 });
