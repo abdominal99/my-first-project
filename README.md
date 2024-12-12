@@ -1,2 +1,6 @@
 # My First Project
-This is my first project on GitHub. I'm learning how to use version control!
+This is my first GitHub project!
+
+## Features
+- Basic HTML structure
+- Simple CSS styles
