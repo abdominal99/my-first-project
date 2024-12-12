@@ -18,5 +18,8 @@ button:hover {
     background-color: darkblue;
 }
 body {
-    background-color: #f0f0f0;
+    body {
+        background-color: #e0f7fa; /* 배경색을 하늘색으로 변경 */
+    }
+    
 }
