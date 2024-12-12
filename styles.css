@@ -7,3 +7,13 @@ h1 {
     text-align: center;
     color: navy;
 }
+button {
+    padding: 10px;
+    background-color: navy;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: darkblue;
+}
